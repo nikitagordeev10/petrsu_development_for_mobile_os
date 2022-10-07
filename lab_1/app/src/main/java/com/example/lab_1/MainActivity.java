@@ -5,6 +5,7 @@ import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
@@ -32,6 +33,11 @@ public class MainActivity extends AppCompatActivity {
     {
         // выводим сообщение
         Toast.makeText(this, "Привет мир!", Toast.LENGTH_SHORT).show();
+    }
+
+    public void startNewActivity(View v) {
+        Intent intent = new Intent(this, hello_world.class);
+        startActivity(intent);
     }
 
 }

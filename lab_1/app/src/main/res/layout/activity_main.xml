@@ -80,7 +80,7 @@
         android:maxWidth="900px"
         android:minWidth="900px"
         android:onClick="onMyButtonClick"
-        android:text="уведомление_1"
+        android:text="уведомление"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="40dp" />
@@ -93,7 +93,8 @@
         android:layout_marginTop="910px"
         android:maxWidth="900px"
         android:minWidth="900px"
-        android:text="уведомление_2"
+        android:onClick="startNewActivity"
+        android:text="к новой странице"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="177dp"
         tools:layout_editor_absoluteY="40dp" />
