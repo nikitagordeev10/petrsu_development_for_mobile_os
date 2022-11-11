@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e708a97-41f9-4a02-b5df-f931b7ce3b42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nike_store/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/androidTest/java/com/example/nike_store/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/app/src/test/java/com/example/nike_store/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_store/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_app/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GQzP1HvfM8op0WIIBGJOiVRraf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab_2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e708a97-41f9-4a02-b5df-f931b7ce3b42" name="Changes" comment="" />
+      <created>1666335569948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666335569948</updated>
+    </task>
+    <servers />
+  </component>
+</project>

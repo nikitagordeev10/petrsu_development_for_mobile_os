@@ -1,0 +1,3 @@
+Develop Rock Paper Scissors game in Android Studio // YouTube URL: https://www.youtube.com/watch?v=52796Zy9Ksk (дата обращения: 11.11.2022).
+Рок – бумага – ножницы Game Money, ножницы, текст, дракон, рука png Бесплатная загрузка // pngwing URL: https://www.pngwing.com/ru/free-png-kpkft/download (дата обращения: 11.11.2022).
+How to Build a Rock Paper Scissor Game in Android Studio? // GeeksforGeeks URL: https://www.geeksforgeeks.org/how-to-build-a-rock-paper-scissor-game-in-android-studio/ (дата обращения: 11.11.2022).
