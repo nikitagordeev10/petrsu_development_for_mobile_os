@@ -1,4 +1,4 @@
-package com.example.rpsgame;
+package com.example.rps;
 
 import org.junit.Test;
 
