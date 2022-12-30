@@ -28,15 +28,16 @@ public class MainActivity extends AppCompatActivity {
     Random random = new Random();
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) { // сохраненное состояние экземпляра
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        scoreTextView = findViewById(R.id.scoreTextView);
-        wonLostTextView = findViewById(R.id.wonLostTextView);
-        compSelectionTextView = findViewById(R.id.compSelectionTextView);
-        userSelectionTextView = findViewById(R.id.userSelectionTextView);
+        scoreTextView = findViewById(R.id.scoreTextView); // статистика побед
+        wonLostTextView = findViewById(R.id.wonLostTextView); // статус победителя
+        compSelectionTextView = findViewById(R.id.compSelectionTextView); // предмет эвм
+        userSelectionTextView = findViewById(R.id.userSelectionTextView); // предмет пользователя
 
+        // значения при начале
         wonLostTextView.setText("");
         compSelectionTextView.setText("");
         userSelectionTextView.setText("");

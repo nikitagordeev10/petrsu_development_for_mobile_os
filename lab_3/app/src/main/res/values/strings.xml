@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">lab_3</string>
+
+    <!-- Символьные элементы интерфейса-->
+    <string name="Author">Разработка Гордеев Никита\nПетрГУ, группа 22207\n2022</string>
+    <string name="ConvertFr">Конвертировать из</string>
+    <string name="ConvertTo">Ковертировать в</string>
+    <string name="ChooseCountry">Выберете валюту</string>
+    <string name="convert">Перевести</string>
+    <string name="CurrencyConverter">Конвертер валют</string>
+    <string name="EntrySum">Введите сумму</string>
+    <string name="Convert">Конвертировать</string>
+    <string name="Result">0</string>
+    <string name="ToCurrency">В валюту</string>
+    <string name="Get">Получу</string>
+    <string name="Own">У меня есть</string>
+    <string name="FromCurrency">Из валюты</string>
+
+    <!-- Поддерживаемые валюты-->
+    <string-array name="Values">
+        <item>AUD</item>
+        <item>AZN</item>
+        <item>GBP</item>
+        <item>AMD</item>
+        <item>BYN</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>HUF</item>
+        <item>HKD</item>
+        <item>DKK</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>KZT</item>
+        <item>CAD</item>
+        <item>KGS</item>
+        <item>CNY</item>
+        <item>MDL</item>
+        <item>NOK</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>XDR</item>
+        <item>SGD</item>
+        <item>TJS</item>
+        <item>TRY</item>
+        <item>TMT</item>
+        <item>UZS</item>
+        <item>UAH</item>
+        <item>CZK</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>ZAR</item>
+        <item>KRW</item>
+        <item>JPY</item>
+    </string-array>>
+
+</resources>
