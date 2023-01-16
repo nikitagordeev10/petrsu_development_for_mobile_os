@@ -1,4 +1,4 @@
-package com.example.lab_1;
+package com.example.lab_4;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">gordeev_lab_1</string>
+    <string name="app_name">lab_1</string>
     <string name="about">Лабораторная работа 1 \"Первое приложение\"\nВыполнил студент группы 22207\nГордеев Никита \ </string>
     <string name="task">1)Установить android studio.\n2)Создать приложение и запустить на эмуляторе/телефоне.\n3)Добавить кнопку в приложение, по нажатию на которое появляется диалоговое окно с приветствием.</string>
 </resources>
